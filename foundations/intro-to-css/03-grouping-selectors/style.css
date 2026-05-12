@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.clickme { 
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.nobutclickme {
+    background-color:#ffff00;
+}
+
+.clickme, .nobutclickme { 
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", "sans-serif"
+}
