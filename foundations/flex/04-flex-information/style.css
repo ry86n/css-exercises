@@ -28,4 +28,13 @@ img {
 
 .content { 
   display: flex;
+  gap: 52px;
+  margin-top: 32px;
+  flex: auto;
+  justify-content: center;
+}
+
+.item-1, .item-2, .item-3, .item-4 {
+   width: 200px;
+   text-align: center;
 }
